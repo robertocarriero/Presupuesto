@@ -311,12 +311,7 @@ h2 {
 .elemento:hover .elemento_valor { transform: translateX(-20px); }
 .elemento:hover .elemento_porcentaje { transform: translateX(-20px);  }
 
-@media screen and (max-width: 480px){
-    .presupuesto{
-        font-size: 1em;
-     
-    }
-}
+
 @media screen and (max-width: 480px){
     .presupuesto_titulo{
         font-size: 0.5m;
@@ -325,18 +320,25 @@ h2 {
     }
 }
 @media screen and (max-width: 480px){
-    .presupuesto_ingreso , .presupuesto_egreso{
+    .presupuesto_ingreso {
         font-size: 1em;
-        width: 120%;
-        height: 20%;
+        width: 100%;
+        height: 10%;
         margin-left: -19%;
     }
 }
-
+@media screen and (max-width: 480px){
+    .presupuesto_egreso{
+        font-size: 1em;
+        width: 100%;
+        height: 10%;
+        margin-right: -19%;
+    }
+}
 
 @media screen and (max-width: 480px){
     .presupuesto_valor{
-        font-size: 1.5em;
+        font-size: 0.5em;
         text-align: center;
         margin-left: -20%;
         font-weight: bold;
@@ -346,12 +348,7 @@ h2 {
     }
 }
 
-@media screen and (max-width: 480px){
-    .presupuesto_valor{
-        font-size: 1.5em;
-        
-    }
-}
+
 
 
 @media screen and (max-width: 480px){
