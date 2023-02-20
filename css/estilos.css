@@ -322,17 +322,21 @@ h2 {
 @media screen and (max-width: 480px){
     .presupuesto_ingreso {
         font-size: 1.2em;
-        width: 130%;
+        width: 160%;
         height: 10%;
         margin-left: -20%;
+        margin-top: 40%;
+        box-sizing: border-box;
     }
 }
 @media screen and (max-width: 480px){
     .presupuesto_egreso{
         font-size: 1.2em;
-        width: 130%;
+        width: 160%;
         height: 10%;
         margin-left: -20%;
+        box-sizing: border-box;
+        margin-top: 5%;
     }
 }
 
