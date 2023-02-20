@@ -317,14 +317,14 @@ h2 {
      
     }
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .presupuesto_titulo{
         font-size: 2em;
         position: absolute;left: -25%; top: -30% ;
-        width: 140%;
+        width: 160%;
     }
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .presupuesto_ingreso , .presupuesto_egreso{
         font-size: 1em;
         width: 120%;
@@ -334,7 +334,7 @@ h2 {
 }
 
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .presupuesto_valor{
         font-size: 1.5em;
         text-align: center;
@@ -346,7 +346,7 @@ h2 {
     }
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .presupuesto_valor{
         font-size: 1.5em;
         
@@ -354,7 +354,7 @@ h2 {
 }
 
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .ingreso{
         font-size: 1em;
         width: 50%;
@@ -363,7 +363,7 @@ h2 {
     }
     
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .egreso{
         font-size: 1em;
         width: 50%;
@@ -373,7 +373,7 @@ h2 {
     }
     
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 400px){
     .elemento_porcentaje{
         font-size: 1em;
         width: 45%;
@@ -381,7 +381,7 @@ h2 {
     }
     
 }
-@media screen and(max-width:480px){
+@media screen and(max-width:400px){
     .agregar_contenedor{
         font-size: 1em;
         width: 100%;
@@ -389,7 +389,7 @@ h2 {
     }
     
 }
-@media screen and(max-width:480px){
+@media screen and(max-width:400px){
     .agregar_descripcion, .agregar_valor, .agregar_btn{
         font-size: 0.5em;
         width: 60%;
@@ -398,7 +398,7 @@ h2 {
     
 }
 
-@media screen and(max-width:480px){
+@media screen and(max-width:400px){
     .agregar_descripcion{
         font-size: 0.5em;
         width: 60%;
@@ -406,7 +406,7 @@ h2 {
     }
     
 }
-@media screen and(max-width:480px){
+@media screen and(max-width:400px){
     .agregar_tipo{
         font-size: 0.5em;
         width: 120px;
@@ -414,7 +414,7 @@ h2 {
     }
     
 }
-@media screen and(max-width:480px){
+@media screen and(max-width:400px){
     .agregar_contenedor{
         font-size: 0.5em;
         width: 100%;
