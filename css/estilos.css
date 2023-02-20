@@ -368,8 +368,8 @@ h2 {
 }
 @media screen and (max-width: 480px){
     .elemento_porcentaje{
-        font-size: 1em;
-        width: 45%;
+        font-size: 0.8em;
+        width: 35%;
         box-sizing: border-box;
     }
     
