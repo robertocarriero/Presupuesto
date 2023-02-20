@@ -319,7 +319,7 @@ h2 {
 }
 @media screen and (max-width: 400px){
     .presupuesto_titulo{
-        font-size: 2em;
+        font-size: 1em;
         position: absolute;left: -25%; top: -30% ;
         width: 160%;
     }
@@ -368,7 +368,7 @@ h2 {
         font-size: 1em;
         width: 50%;
         box-sizing: border-box;
-        position: absolute;left: 13%; top: 77%;
+        position: absolute;left: 13%; top: 27%;
        
     }
     
