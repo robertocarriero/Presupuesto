@@ -324,7 +324,7 @@ h2 {
         font-size: 1.2em;
         width: 160%;
         height: 10%;
-        margin-left: -20%;
+        margin-left: -17%;
         margin-top: 5%;
         box-sizing: border-box;
     }
@@ -334,7 +334,7 @@ h2 {
         font-size: 1.2em;
         width: 160%;
         height: 10%;
-        margin-left: -20%;
+        margin-left: -17%;
         box-sizing: border-box;
     }
 }
@@ -366,7 +366,7 @@ h2 {
     }
     
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 480px){
     .elemento_porcentaje{
         font-size: 1em;
         width: 45%;
@@ -374,7 +374,7 @@ h2 {
     }
     
 }
-@media screen and(max-width:400px){
+@media screen and(max-width:480px){
     .agregar_contenedor{
         font-size: 1em;
         width: 100%;
@@ -382,32 +382,32 @@ h2 {
     }
     
 }
-@media screen and(max-width:400px){
-    .agregar_descripcion, .agregar_valor, .agregar_btn{
-        font-size: 0.5em;
+@media screen and(max-width:480px){
+    .agregar_valor, .agregar_btn{
+        font-size: 0.8em;
         width: 60%;
-        height: 20%;
+        height: 10%;
     }
     
 }
 
-@media screen and(max-width:400px){
+@media screen and(max-width:480px){
     .agregar_descripcion{
-        font-size: 0.5em;
-        width: 60%;
-        height: 20%;
+        font-size: 0.8em;
+        width: 80%;
+        height: 10%;
     }
     
 }
-@media screen and(max-width:400px){
+@media screen and(max-width:480px){
     .agregar_tipo{
-        font-size: 0.5em;
-        width: 120px;
-        height: 20%;
+        font-size: 0.8em;
+        width: 30%;
+        height: 10%;
     }
     
 }
-@media screen and(max-width:400px){
+@media screen and(max-width:480px){
     .agregar_contenedor{
         font-size: 0.5em;
         width: 100%;
