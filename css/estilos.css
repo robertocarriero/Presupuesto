@@ -314,7 +314,7 @@ h2 {
 
 @media screen and (max-width: 480px){
     .presupuesto_titulo{
-        font-size: 0.5m;
+        font-size: 0.5em;
         position: absolute;left: -25%; top: -40% ;
         width: 160%;
     }
@@ -347,10 +347,6 @@ h2 {
         
     }
 }
-
-
-
-
 @media screen and (max-width: 480px){
     .ingreso{
         font-size: 1em;
