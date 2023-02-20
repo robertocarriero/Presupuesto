@@ -314,7 +314,7 @@ h2 {
 
 @media screen and (max-width: 480px){
     .presupuesto_titulo{
-        font-size: 0.5em;
+        font-size: 15px;
         position: absolute;left: -25%; top: -40% ;
         width: 160%;
     }
@@ -322,15 +322,15 @@ h2 {
 @media screen and (max-width: 480px){
     .presupuesto_ingreso {
         font-size: 1em;
-        width: 100%;
+        width: 130%;
         height: 10%;
         margin-left: -19%;
     }
 }
 @media screen and (max-width: 480px){
     .presupuesto_egreso{
-        font-size: 1em;
-        width: 100%;
+        font-size: 15 px;
+        width: 130%;
         height: 10%;
         margin-right: -19%;
     }
@@ -361,7 +361,7 @@ h2 {
         font-size: 1em;
         width: 50%;
         box-sizing: border-box;
-        position: absolute;left: 13%; top: 47%;
+        position: absolute;left: 13%; top: 65%;
        
     }
     
