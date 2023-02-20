@@ -406,6 +406,7 @@ h2 {
         width: 26%;
         height: 5%;
     
+    }
 }
 @media screen and(max-width:480px){
     .agregar_tipo{
@@ -421,13 +422,4 @@ h2 {
         border-radius: 4px;
         padding: 12px 15px;
     }
-    
-}
-@media screen and(max-width:480px){
-    .agregar_contenedor{
-        font-size: 0.5em;
-        width: 100%;
-        height: 20%;
-    }
-    
 }
