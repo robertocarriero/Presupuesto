@@ -332,7 +332,7 @@ h2 {
         font-size: 40 px;
         width: 130%;
         height: 10%;
-        margin-left: -30%;
+        margin-left: -19%;
     }
 }
 
@@ -351,18 +351,18 @@ h2 {
 @media screen and (max-width: 480px){
     .ingreso{
         font-size: 1em;
-        min-width: 70%;
+        min-width: 40%;
         box-sizing: border-box;
-        margin-left: 13%;
+        margin-left: 9%;
     }
     
 }
 @media screen and (max-width: 480px){
     .egreso{
         font-size: 1em;
-        width: 70%;
+        width: 40%;
         box-sizing: border-box;
-        position: relative;left: 13%; top: 65%;
+        position: relative;left: 9%; top: 65%;
        
     }
     
