@@ -325,7 +325,7 @@ h2 {
         width: 160%;
         height: 10%;
         margin-left: -20%;
-        margin-top: 250%;
+        margin-top: 5%;
         box-sizing: border-box;
     }
 }
@@ -334,9 +334,8 @@ h2 {
         font-size: 1.2em;
         width: 160%;
         height: 10%;
-        margin-left: -24%;
+        margin-left: -20%;
         box-sizing: border-box;
-        margin-top: 5%;
     }
 }
 
@@ -345,11 +344,6 @@ h2 {
         font-size: 40px;
         text-align: center;
         margin-left: -24%;
-       
-        margin-top: 5%;
-        
-        
-        
     }
 }
 @media screen and (max-width: 480px){
