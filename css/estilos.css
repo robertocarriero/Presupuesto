@@ -325,7 +325,7 @@ h2 {
         width: 160%;
         height: 10%;
         margin-left: -20%;
-        margin-top: 40%;
+        margin-top: 250%;
         box-sizing: border-box;
     }
 }
@@ -334,7 +334,7 @@ h2 {
         font-size: 1.2em;
         width: 160%;
         height: 10%;
-        margin-left: -20%;
+        margin-left: -24%;
         box-sizing: border-box;
         margin-top: 5%;
     }
@@ -344,7 +344,7 @@ h2 {
     .presupuesto_valor{
         font-size: 40px;
         text-align: center;
-        margin-left: -20%;
+        margin-left: -24%;
        
         margin-top: 5%;
         
@@ -367,7 +367,7 @@ h2 {
         width: 70%;
         box-sizing: border-box;
         margin-left: 15%;
-        margin-top: 5%;
+        margin-top: 2%;
        
     }
     
