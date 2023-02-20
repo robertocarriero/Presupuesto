@@ -312,41 +312,122 @@ h2 {
 .elemento:hover .elemento_porcentaje { transform: translateX(-20px);  }
 
 @media screen and (max-width: 480px){
-    .presupuesto, .presupuesto_titulo, .presupuesto_ingreso, .presupuesto_ingreso--texto, 
-    .presupuesto_egreso--valor, .presupuesto_egreso--porcentaje, .presupuesto_egreso--texto,
-    .presupuesto_egreso, .presupuesto_ingreso--valor, .presupuesto_valor{
-        font-size: 100%;
-        width: 70%;
+    .presupuesto{
+        font-size: 1em;
+     
+    }
+}
+@media screen and (max-width: 480px){
+    .presupuesto_titulo{
+        font-size: 2em;
+        position: absolute;left: -25%; top: -30% ;
+        width: 140%;
+    }
+}
+@media screen and (max-width: 480px){
+    .presupuesto_ingreso , .presupuesto_egreso{
+        font-size: 1em;
+        width: 120%;
+        height: 20%;
+        margin-left: -19%;
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .presupuesto_valor{
+        font-size: 1.5em;
+        text-align: center;
+        margin-left: -20%;
+        font-weight: bold;
+        
+        
+        
     }
 }
 
 @media screen and (max-width: 480px){
-    .ingreso_titulo, .elemento_valor, .elemento_descripcion{
-        font-size: 100%;
-        width: 100%;
+    .presupuesto_valor{
+        font-size: 1.5em;
+        
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .ingreso{
+        font-size: 1em;
+        width: 50%;
+        box-sizing: border-box;
+        margin-left: 23%;
     }
     
 }
 @media screen and (max-width: 480px){
-    .egreso_titulo, .elemento_descripcion,  .elemento_porcentaje, .elemento_valor, .elemento_eliminar{
-        font-size: 70%;
+    .egreso{
+        font-size: 1em;
+        width: 50%;
+        box-sizing: border-box;
+        position: absolute;left: 13%; top: 77%;
+       
+    }
+    
+}
+@media screen and (max-width: 480px){
+    .elemento_porcentaje{
+        font-size: 1em;
+        width: 45%;
+        box-sizing: border-box;
+    }
+    
+}
+@media screen and(max-width:480px){
+    .agregar_contenedor{
+        font-size: 1em;
         width: 100%;
+        height: 10%;
+    }
+    
+}
+@media screen and(max-width:480px){
+    .agregar_descripcion, .agregar_valor, .agregar_btn{
+        font-size: 0.5em;
+        width: 60%;
+        height: 20%;
     }
     
 }
 
 @media screen and(max-width:480px){
-    .agregar_tipo, .agregar_descripcion, .agregar_valor, .agregar_btn{
-        font-size: 100%;
-        width: 100%;
+    .agregar_descripcion{
+        font-size: 0.5em;
+        width: 60%;
+        height: 20%;
     }
     
 }
-
 @media screen and(max-width:480px){
-     .agregar_descripcion{
-        font-size: 50%;
-        width: 100%;
+    .agregar_tipo{
+        font-size: 0.5em;
+        width: 120px;
+        height: 20%;
     }
     
 }
+@media screen and(max-width:480px){
+    .agregar_contenedor{
+        font-size: 0.5em;
+        width: 100%;
+        height: 20%;
+    }
+    
+}
+/*@media screen and(max-width:480px){
+    .agregar{
+        font-size: 0.5em;
+
+        width: 100%;
+        height: 20%;
+    }
+    
+}*/
