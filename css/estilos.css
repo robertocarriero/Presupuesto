@@ -374,22 +374,35 @@ h2 {
     }
     
 }
+
+
 @media screen and(max-width:480px){
     .agregar_contenedor{
-        font-size: 1em;
+        display: flex;
+        flex-direction: column;
         width: 100%;
         height: 10%;
     }
     
 }
 @media screen and(max-width:480px){
-    .agregar_valor, .agregar_btn{
+    .agregar_valor{
         font-size: 0.8em;
-        width: 60%;
+        width: 40%;
         height: 10%;
     }
     
 }
+@media screen and(max-width:480px){
+    .agregar_btn{
+        font-size: 0.8em;
+        width: 20%;
+        height: 10%;
+    }
+    
+}
+
+
 
 @media screen and(max-width:480px){
     .agregar_descripcion{
@@ -403,14 +416,14 @@ h2 {
         border-radius: 5px;
         transition: border 0.3s;
         font-weight: bold;
-        width: 26%;
+        width: 40%;
         height: 5%;
     
     }
 }
 @media screen and(max-width:480px){
     .agregar_tipo{
-        width: 10%;
+        width: 20%;
         /*border: 4px ridge #5a5656;*/
         height: 5%;
         font-size: 1em;
